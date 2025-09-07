@@ -4,6 +4,8 @@
 
 ---
 
+🔗 [Live Demo](https://sunny-kitten-7b9389.netlify.app/)
+
 ## 🚀 Features
 
 - 🔍 Search for any city globally
